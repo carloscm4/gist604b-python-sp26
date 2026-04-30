@@ -12,7 +12,13 @@ Repository for working with tabular, vector, and raster GIS data using Python.
     ├── data/
     │   ├── neighborhood_samples.geojson
     │   ├── temperature_readings.csv
-    │   └── weather_stations.csv
+    │   ├── weather_stations.csv
+    │   ├── cities/
+    │   │   └── ne_cities_us.geojson
+    │   ├── ecoregions/
+    │   │   └── epa_level3_western_us.geojson
+    │   └── protected_areas/
+    │   │   └── national_parks_major.geojson
     ├── notebooks/
     │   ├── pandas/
     │   ├── geopandas/
