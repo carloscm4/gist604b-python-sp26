@@ -2,7 +2,7 @@
 
 **Student:** Carlos Castillo    
 **Course:** GIST 604B – Open Source GIS  
-**Module:** Module 3 – Python GIS  
+**Module:** Module 3 – Python GIS and Containerization  
 **University of Arizona**
 
 ---
